@@ -1,0 +1,5 @@
+
+isquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(Çµí‘
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÀßŠ¿úÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(êäª¿üÿÿÿÿ
