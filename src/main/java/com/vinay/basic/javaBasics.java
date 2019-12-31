@@ -5,6 +5,7 @@ import java.util.HashSet;
 public class javaBasics {
 
     public static void main(String[] args) {
+        System.out.println(22/(double)7);
         byte i = 1;
         HashSet<String> hs= new HashSet<>();
         String a="abc";

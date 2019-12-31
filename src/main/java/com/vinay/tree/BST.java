@@ -95,7 +95,7 @@ public class BST {
     }
 
 
-    public void inorder(BinaryTree root) {
+    public static void inorder(BinaryTree root) {
         if (root != null) {
             inorder(root.getLeft());
             System.out.print(root.getData() + " ");
@@ -103,7 +103,7 @@ public class BST {
         }
     }
 
-    public void inorderReverse(BinaryTree root) {
+    public static void inorderReverse(BinaryTree root) {
         if (root != null) {
             inorderReverse(root.getRight());
             System.out.print(root.getData() + " ");
